@@ -1,0 +1,1 @@
+alter table COMMENT alter column COMMENTER bigint not null;
